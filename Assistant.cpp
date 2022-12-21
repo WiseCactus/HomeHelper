@@ -1,8 +1,4 @@
-/* Jun Shao
-* 251258566
-* November 7 2022
-* Assistant contains the logic for starting the WT app and the main function
-*/
+
 
 #include "Assistant.h"
 
